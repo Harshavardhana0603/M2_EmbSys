@@ -19,4 +19,15 @@
 
 
 
+# 4W's & 1'H
 
+# Who
+
+
+# What
+
+# When
+
+# Where  
+
+# How
