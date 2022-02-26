@@ -18,3 +18,5 @@
 |LLR2| For the servo shaft to move left all the away we need to give 1/18 turn on ration,|
 
 
+
+
