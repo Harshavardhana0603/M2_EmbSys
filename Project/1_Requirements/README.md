@@ -9,8 +9,10 @@
 
   3.[Requirements](#requirements)
 
-
   4.[Swot analysis](#swot-analysis)
+  
+  5.[Advanatges](#advanatges)
+  
 
 
 
@@ -113,3 +115,18 @@ Whether residential or commercial, need to have security parameters installed al
 #### Threat
 
    ###### Damage may occur if the sensor does not sense
+
+
+
+
+# Advanatges
+
+
+
+
+1. Privacy: Privacy is important for every family. Choosing a suitable driveway gate for your property is the best way to protect your and your family’s privacy from the outsiders
+
+
+
+2. Safety: Automatic gates provide the convenience of allowing homeowners to control entrance and exit of their home. So you can create boundaries for your pets and children and avoid severe consequences surrounding traffic and other dangers that may create harm.
+
