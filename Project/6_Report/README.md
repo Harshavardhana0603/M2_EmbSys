@@ -24,6 +24,8 @@
   
   11.[Advanatges](#advanatges)
   
+  12.[output video](#output-video)
+  
   
   
   
@@ -200,6 +202,14 @@ Whether residential or commercial, need to have security parameters installed al
 
 
 2. Safety: Automatic gates provide the convenience of allowing homeowners to control entrance and exit of their home. So you can create boundaries for your pets and children and avoid severe consequences surrounding traffic and other dangers that may create harm.
+
+
+
+
+# output video
+
+
+https://user-images.githubusercontent.com/98813874/157305815-e0f13ef6-3cdf-4fc4-ad98-7758b37a82be.mp4
 
 
 
