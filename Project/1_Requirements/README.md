@@ -1,34 +1,16 @@
 # Automatic Gate Operating Sysyem
-## Table of conents
-1.[Introduction](#introduction)
 
-2.[Purpose](#purpose)
-
-3.[Requirements](#requirements)
+### Table of conents:
 
 
-4.[Swot analysis](#swot-analysis)
+  1.[Introduction](#introduction)
+
+  2.[Purpose](#purpose)
+
+  3.[Requirements](#requirements)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  4.[Swot analysis](#swot-analysis)
 
 
 
@@ -77,29 +59,6 @@ Whether residential or commercial, need to have security parameters installed al
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 4W's & 1'H
 
 # Who
@@ -135,5 +94,22 @@ Whether residential or commercial, need to have security parameters installed al
 
 # Swot analysis
 
+#### Streanth:
+
+   ###### Benifit and automaticaly sense the entry and exit of the object/vehicle.
+   ###### Low cost.
 
 
+#### Weakness
+
+   ###### No warranty on sensors
+
+
+#### Opportunities
+
+   ###### Providing saftey and protection in the construction feild etc
+   ###### Used in developed cities
+
+#### Threat
+
+   ###### Damage may occur if the sensor does not sense
