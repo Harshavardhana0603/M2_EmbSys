@@ -60,7 +60,7 @@ Whether residential or commercial, need to have security parameters installed al
 | ID | Descriptions|
 |----|-------------|
 | HLR1| The IR sensor should sense the vehicle/object and pass signal to controller|
-|HLR2|The DC motor will open/close gate when bject/vehicle detects|
+|HLR2|The DC motor will open/close gate when object/vehicle detects|
 |HLR3| LED should on/off according to the signal |
 
 
