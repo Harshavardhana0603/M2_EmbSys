@@ -4,6 +4,8 @@
 
 
 # Flow chart
+![flowchart ](https://user-images.githubusercontent.com/98813874/157279776-c6c355e9-0064-450f-b5a3-d90f3c208966.PNG)
+
 
 
 # Behavioural Diagram
