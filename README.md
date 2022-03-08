@@ -5,4 +5,11 @@
 
 ![code quality](https://api.codiga.io/project/31778/status/svg)
 
+
+
+[![CodeFactor](https://www.codefactor.io/repository/github/harshavardhana0603/m2_embsys/badge)](https://www.codefactor.io/repository/github/harshavardhana0603/m2_embsys)
+
+
+
+
 # M2_EmbSys
